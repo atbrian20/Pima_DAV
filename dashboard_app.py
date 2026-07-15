@@ -27,7 +27,7 @@ def load_data():
 df = load_data()
 
 st.title("Pima Indians Diabetes — Interactive Explorer")
-st.caption("Dashboard for the Data Analytics & Visualization take-home exam (DS17).")
+st.caption("Bonus dashboard for the Data Analytics & Visualization take-home exam (DS17).")
 
 # --- Sidebar controls (filters) ---
 st.sidebar.header("Filters")
